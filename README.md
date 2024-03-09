@@ -1,6 +1,7 @@
 # Postman API Project (API ReqRes)
 
 This is a project from the BootCamp, "The Complete Software Testing Bootcamp", organized by Nezam Academy.
+
 ReqRes is a hosted REST API that is ready to respond to AJAX requests. It allows testers to test APIs for free.  
 Below are details about the API Endpoints and how you can use them.
 
